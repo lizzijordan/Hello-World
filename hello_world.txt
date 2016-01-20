@@ -1,3 +1,4 @@
 Hello everyone!
 Here is a new line
 Line number three!
+Version2 has begun. This is the beginning.
